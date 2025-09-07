@@ -82,14 +82,13 @@ layout: default
        <img src="assets/11.setting_access.png" width="400" alt="11.setting access" />
 
     2.  `Import INFINITAS Scores`をタップします
-       (リザルト手帳はSP.csv と DP.csvで分かれて出力される為、目的のPlayStyleに合わせた項目をタップしてください。)
+       (リザルト手帳はSP.csv と DP.csvで分かれて出力される為、目的のPlayStyleに合わせた項目をタップしてください。)  
        <img src="assets/12.import_button.png" width="350" alt="12.import button" />
 
-    3. 画面下部に、スコアCSVインポート画面が表示されます。 `Google Drive File ID`の部分に、予め用意したGoogle Drive配置済み、かつ `リンクを知っている全員`に共有設定されているCSVファイルのURLを入力します。
+    3. 画面下部に、スコアCSVインポート画面が表示されます。 `Google Drive File ID`の部分に、予め用意したGoogle Drive配置済み、かつ `リンクを知っている全員`に共有設定されているCSVファイルのURLを入力します。  
      <img src="assets/13.import_form.png" width="350" alt="13.import form" />
 
-    4. 端末内に保存したファイルを取り込むことも可能です。
-        `Local File`をタップしローカルファイル取込画面に切替え、 `Select Local CSV File`より対象のCSVを選択します。
+    4. 端末内に保存したファイルを取り込むことも可能です。`Local File`をタップしローカルファイル取込画面に切り替え `Select Local CSV File`より対象のCSVを選択します。  
        <img src="assets/13.import_form_2.png" width="350" alt="13.import form 2" />
 
     5. `Import`ボタンをタップし、取込を開始します。暫くすると、楽曲リスト画面にスコア情報が反映されます。
