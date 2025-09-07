@@ -1,0 +1,19 @@
+/* Lightweight callout styles for blockquotes */
+blockquote {
+  border-left: 4px solid #7c3aed;
+  background: rgba(124, 58, 237, 0.06);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 0 8px 8px 0;
+}
+img {
+  border-radius: 10px;
+}
+/* Make tables a bit nicer */
+table {
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #e5e7eb;
+  padding: 6px 10px;
+}
